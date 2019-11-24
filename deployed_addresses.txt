@@ -1,0 +1,8 @@
+
+Deployed the dapp in rinkeby testnet. Contract address are below(latest). 
+
+Migrations: 0xa5af513a9c9520c244257b5b9d46b6bb6a78e140
+Mortal: 0x02addaf30b2ba7ea9ea8059be9af429341f62b25
+ProofDB: 0x41e2932c77033028a0c82d501700a916766e6f71
+Proof: 0x5f1d9e5c57656c94cf3220f99d4b67d473546b0f
+Register: 0x24308d51cff19a26be55977e75ad439b4dd0adc7
