@@ -51,7 +51,7 @@
   "dependencies": {
     "@coreui/coreui": "^2.0.4",
     "@coreui/react": "^2.0.5",
-    "@openzeppelin/contracts": "^2.4.0",
+    "@openzeppelin/contracts": "^4.7.2",
     "dotenv": "^2.0.0",
     "ipfs-api": "^24.0.0",
     "node-forge": "^0.7.5",
